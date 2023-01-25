@@ -160,6 +160,6 @@ The code above stores the data in a dataframe and prints it to the terminal.
 Beta membership Available in the ".github" -> "FUNDING.yml" to see how I figured it out and to contribute to further patches!
 New Patch drops when I get 20 subscribers to my Patreon: 
 ````
-## Copy/Paste into browser:
+Copy/Paste into browser:
 patreon.com/swooshcode
 ````
