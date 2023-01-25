@@ -156,3 +156,5 @@ print(df)
 The code above stores the data in a dataframe and prints it to the terminal.
 
 Happy Coding! 
+
+Click the donate button so see how I figured it out and to contribute to further patches!
