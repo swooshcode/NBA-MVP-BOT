@@ -4,7 +4,7 @@ Disclaimer: Obtain permission from owners of the website before scraping data fr
 
 ````
 Logic:
-***A function that extracts data from https://t-leopards.com/stats/players and predicts which player is most likely to score the most points
+Over winter break, I created an API BOT that extracts data from https://t-leopards.com/stats/players and predicts which player is most likely to score the most points
 1. Fetching the data: I fetch the data from the website using Python. Once the data is fetched, I parse it into a format that can be used for analysis.
 2. Cleaning and preprocessing the data: I clean and preprocess the data so that it can be used for analysis. Future patches may involve changes- removing missing or irrelevant data, converting data into a numerical format, and scaling the data.
 3. Exploratory Data Analysis (EDA): I perform exploratory data analysis on the data to understand the distribution of the data, identify patterns and correlations, and gain insights into the data.
