@@ -1,7 +1,8 @@
 # NBA-MVP-BOT
 APP That predicts the MVP for the next basketball game based on previous stats for the season. I use Dwight Howard and the Taoyuan Leopards as an example. Contributions are welcomed with limitations. Check the license for details.
 Disclaimer: Obtain permission from owners of the website before scraping data from them!!! 
-
+Licensor: Frame Tech Solutions Ltd., Co. 框架技術解決方案
+-> Founder: Nigel Kelly "Huanglong" Phillips
 ````
 Logic:
 Over winter break, I created an API BOT that extracts data from https://t-leopards.com/stats/players and predicts which player is most likely to score the most points
