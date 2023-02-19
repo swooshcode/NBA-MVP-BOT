@@ -1,5 +1,7 @@
 # NBA-MVP-BOT
-![](https://i.imgur.com/QQZ1ZUQ.png)
+
+https://user-images.githubusercontent.com/115655242/219932565-083136aa-c6ac-442f-9a67-b445789305da.mp4
+
 APP That predicts the MVP for the next basketball game based on previous stats for the season. I use Dwight Howard and the Taoyuan Leopards as an example. Contributions are welcomed with limitations. Check the license for details.
 Disclaimer: Obtain permission from owners of the website before scraping data from them!!! 
 Licensor: Frame Tech Solutions Ltd., Co. 框架技術解決方案
